@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kombi-d.github.io/sitemap.xml
+Sitemap: https://kombi-d.github.io/TestProjectsPage//sitemap.xml
